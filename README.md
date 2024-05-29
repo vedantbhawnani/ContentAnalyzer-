@@ -1,4 +1,4 @@
-## Blackcoffer Text Analysis Project
+## Text Analysis Project
 
 This personal project was created to explore and learn about text analysis techniques using Python. It focuses on analyzing textual content from Blackcoffer Insights articles, extracting various linguistic features, and calculating readability scores to assess the complexity and sentiment of the text.
 
@@ -47,9 +47,3 @@ This personal project was created to explore and learn about text analysis techn
 3. **Run the script:** `python BlackCoffer.py`
 4. **The Output.csv file will be generated containing the analysis results.**
 
-### Additional Notes
-
-* The script assumes the input URLs are valid Blackcoffer Insights articles.
-* You can modify the stop words list and sentiment dictionaries as needed. 
-* Further analysis and visualization can be performed using the extracted features and scores. 
-* This project served as a valuable learning experience in web scraping, text processing, sentiment analysis, and readability assessment. 
